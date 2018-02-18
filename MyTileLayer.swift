@@ -1,6 +1,6 @@
 //
 //  MyTileLayer.swift
-//  AspenApp
+//  
 //
 //  Created by Frank YAN on 2017-05-03.
 //  Copyright © 2017 Frank YAN. All rights reserved.
